@@ -1,6 +1,6 @@
 # ConsoleSnake
 Very first game made by me many years ago. 
 
-![Alt text](/screens/path/menu.png?raw=true "Menu")
-![Alt text](/screens/path/play.png?raw=true "Game")
-![Alt text](/screens/path/killcam.png?raw=true "KillCam")
+![Alt text](/screens/menu.png)
+![Alt text](/screens/play.png)
+![Alt text](/screens/killcam.png)
